@@ -16,6 +16,4 @@ Skills:  JS / HTML / CSS / PYTHON / GDSCRIPT
 ](https://github.com/jediknight813/github-readme-stats&theme=radical)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jediknight813)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/jediknight813)  
-
 
