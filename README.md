@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Connor
 #### Design and Development
-![Design and Development](https://www.faithful3d.team/image/home/github_banner.jpg)
+![Design and Development](https://pratikjagrut.dev/img/git/github.png)
 I am a student programer that has experience in HTML, CSS, JavaScript, and python, and have experience using Windows Mac OS and Linux ubuntu operating systems
 
 Skills:  JS / HTML / CSS / PYTHON / GDSCRIPT
