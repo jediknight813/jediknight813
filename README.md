@@ -5,7 +5,7 @@ I am a student programer that has experience in HTML, CSS, JavaScript, and pytho
 
 Skills:  JS / HTML / CSS / PYTHON / GDSCRIPT
 
-- 🔭 I’m currently working on making games and websites. 
+- 🔭 I’m currently working on making games and websites
 - 🌱 I’m currently learning React 
 - ⚡ Fun fact: Game jams are fun! 
 
