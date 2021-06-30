@@ -6,5 +6,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jediknight813&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jediknight813&layout=compact)](https://github.com/jediknight813/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jediknight813&layout=compact&theme=radical)
+](https://github.com/jediknight813/github-readme-stats&theme=radical)
 
