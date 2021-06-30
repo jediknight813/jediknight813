@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Connor
 #### Design and Development
-![Design and Development](https://pratikjagrut.dev/img/git/github.png)
+![Design and Development](https://libg.s3.us-east-2.amazonaws.com/download/Its-Time-To-Program-Something.jpg)
 I am a student programer that has experience in HTML, CSS, JavaScript, and python, and have experience using Windows Mac OS and Linux ubuntu operating systems
 
 Skills:  JS / HTML / CSS / PYTHON / GDSCRIPT
