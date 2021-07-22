@@ -9,6 +9,7 @@ Skills:  JS / HTML / CSS / PYTHON / GDSCRIPT
 - 🌱 I’m currently learning React 
 - ⚡ Fun fact: Game jams are fun!
 - 🐍 my battlesnake profile https://play.battlesnake.com/u/jediknight813/#battlesnakes 
+- 🎮 my itch.io page: https://the-last-samurai.itch.io/
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jediknight813&show_icons=true&theme=radical&count_private=true)
