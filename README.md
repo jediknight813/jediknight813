@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Connor
 #### Some stuff to know about me
 ![Design and Development](https://libg.s3.us-east-2.amazonaws.com/download/Its-Time-To-Program-Something.jpg)
-I am a student programer that has experience in HTML, CSS, JavaScript, and python, and have experience using Windows Mac OS and Linux ubuntu operating systems.
+I am a student programer that has experience in HTML, CSS, JavaScript, and python.
 
 Skills:  JS / HTML / CSS / PYTHON / GDSCRIPT
 
 - 🔭 I’m currently working on making games and websites
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently doing the Odin Project 
 - ⚡ Fun fact: Game jams are fun!
 - 🐍 my battlesnake profile https://play.battlesnake.com/u/jediknight813/#battlesnakes 
 - 🎮 my itch.io page: https://the-last-samurai.itch.io/
