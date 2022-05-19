@@ -5,11 +5,9 @@ I am a student programer that has experience in HTML, CSS, JavaScript, and pytho
 
 Skills:  JS / HTML / CSS / PYTHON / GDSCRIPT
 
-- 🔭 I’m currently working on making games and websites
-- 🌱 I’m currently doing the Odin Project 
+- 🌱 I’m currently doing LC101
 - ⚡ Fun fact: Game jams are fun!
 - 🐍 my battlesnake profile https://play.battlesnake.com/u/jediknight813/#battlesnakes 
-- 🎮 my itch.io page: https://the-last-samurai.itch.io/
 
 
 <img
