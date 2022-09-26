@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Connor
 #### Some stuff to know about me
 ![Design and Development](https://libg.s3.us-east-2.amazonaws.com/download/Its-Time-To-Program-Something.jpg)
-I am a student programer that has experience in HTML, CSS, JavaScript, and python.
+I am a mostly self taught programer and have experience with HTML, CSS, JavaScript, React, Godot, Java and python.
 
-Skills:  JS / HTML / CSS / PYTHON / GDSCRIPT
+Skills:  JS / HTML / CSS / PYTHON / GODOT
 
 - 🌱 I’m currently doing LC101
 - ⚡ Fun fact: Game jams are fun!
