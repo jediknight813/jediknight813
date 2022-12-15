@@ -19,7 +19,7 @@ Skills:  JS / HTML / CSS / PYTHON / GODOT
   />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jediknight813&layout=compact&theme=react)
-](https://github.com/jediknight813/github-readme-stats&theme=react)
+](https://github.com/jediknight813/github-readme-stats&theme=react&&PAT_1)
 
 
 
