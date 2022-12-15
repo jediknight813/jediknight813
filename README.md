@@ -11,7 +11,7 @@ Skills:  JS / HTML / CSS / PYTHON / GODOT
 
 
 <img
-    src="https://github-readme-stats.vercel.app/api?username=jediknight813&show_icons=true&theme=react&&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=jediknight813&show_icons=true&theme=react&&hide_border=true&&PAT_1"
   />
 
 <img
