@@ -21,6 +21,7 @@ I have always been passionate about design and creation, and programming has bec
 - Kubernetes
 
 
+# Bonus
 - 🌱 I’m currently attending launchcodes Liftoff!
 - ⚡ Fun fact: Game jams are fun!
 - 🐍 my battlesnake profile https://play.battlesnake.com/u/jediknight813/#battlesnakes 
