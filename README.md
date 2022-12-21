@@ -6,14 +6,14 @@
 I have always been passionate about design and creation, and programming has become my favorite way to express that creativity. From games to websites and beyond, there is always something exciting and new to work on in the ever-evolving world of technology. As a kid, I loved experimenting with different mediums, and now, as an adult, I am thrilled to continue exploring and pushing the boundaries of what is possible with code.
 
 
-# Programming Languages: 
+### Programming Languages
 - Java 
 - HTML5/CSS 
 - Python 
 - GDScript 
 - Javascript
 
-# Frameworks: 
+### Frameworks
 - React 
 - AngularJS 
 - Tailwind CSS 
@@ -21,7 +21,7 @@ I have always been passionate about design and creation, and programming has bec
 - Kubernetes
 
 
-# Bonus
+### Bonus
 - 🌱 I’m currently attending launchcodes Liftoff!
 - ⚡ Fun fact: Game jams are fun!
 - 🐍 my battlesnake profile https://play.battlesnake.com/u/jediknight813/#battlesnakes 
