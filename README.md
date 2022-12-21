@@ -2,7 +2,7 @@
 #### Some stuff to know about me
 ![Design and Development](https://libg.s3.us-east-2.amazonaws.com/download/Its-Time-To-Program-Something.jpg)
 
-# TDLR: I love to create interesting and challenging projects.
+# TLDR: I love to create interesting and challenging projects.
 I have always been passionate about design and creation, and programming has become my favorite way to express that creativity. From games to websites and beyond, there is always something exciting and new to work on in the ever-evolving world of technology. As a kid, I loved experimenting with different mediums, and now, as an adult, I am thrilled to continue exploring and pushing the boundaries of what is possible with code.
 
 Programming Languages: Java / HTML5/CSS / Python / GDScript / Javascript
