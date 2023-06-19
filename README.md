@@ -22,7 +22,7 @@ I have always been passionate about design and creation, and programming has bec
 
 
 ### Bonus
-- 🌱 I’m currently attending launchcodes Liftoff!
+- 🌱 I’m currently working at Seminaut Inc!
 - ⚡ Fun fact: Game jams are fun!
 
 
