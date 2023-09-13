@@ -27,7 +27,7 @@ I have always been passionate about design and creation, and programming has bec
 
 
 <img
-    src="https://github-readme-stats.vercel.app/api?username=jediknight813&show_icons=true&theme=react&&hide_border=true&&PAT_1"
+    src="https://github-readme-stats.vercel.app/api?username=jediknight813&show_icons=true&theme=react&&hide_border=true&&PAT_1&&hide_rank=true"
   />
 
 <img
